@@ -1,0 +1,32 @@
+D:\G947\VS19repos\C_Wimform\C_Wimform\bin\Debug\C_Wimform.exe.config
+D:\G947\VS19repos\C_Wimform\C_Wimform\bin\Debug\C_Wimform.exe
+D:\G947\VS19repos\C_Wimform\C_Wimform\bin\Debug\C_Wimform.pdb
+D:\G947\VS19repos\C_Wimform\C_Wimform\obj\Debug\C_Wimform.csproj.AssemblyReference.cache
+D:\G947\VS19repos\C_Wimform\C_Wimform\obj\Debug\C_Wimform.Form1.resources
+D:\G947\VS19repos\C_Wimform\C_Wimform\obj\Debug\C_Wimform.Properties.Resources.resources
+D:\G947\VS19repos\C_Wimform\C_Wimform\obj\Debug\C_Wimform.csproj.GenerateResource.cache
+D:\G947\VS19repos\C_Wimform\C_Wimform\obj\Debug\C_Wimform.csproj.CoreCompileInputs.cache
+D:\G947\VS19repos\C_Wimform\C_Wimform\obj\Debug\C_Wimform.exe
+D:\G947\VS19repos\C_Wimform\C_Wimform\obj\Debug\C_Wimform.pdb
+D:\G947\VS19repos\C_Wimform\C_Wimform\obj\Debug\C_Wimform.Form2.resources
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\obj\Debug\C_Wimform.csproj.AssemblyReference.cache
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\obj\Debug\C_Wimform.Form1.resources
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\obj\Debug\C_Wimform.Form2.resources
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\obj\Debug\C_Wimform.Properties.Resources.resources
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\obj\Debug\C_Wimform.csproj.GenerateResource.cache
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\obj\Debug\C_Wimform.csproj.CoreCompileInputs.cache
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\obj\Debug\C_Wimform.exe
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\obj\Debug\C_Wimform.pdb
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\bin\Debug\C_Wimform.exe.config
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\bin\Debug\C_Wimform.exe
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\bin\Debug\C_Wimform.pdb
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\bin\Debug\EntityFramework.dll
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\bin\Debug\EntityFramework.SqlServer.dll
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\bin\Debug\System.Data.SQLite.dll
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\bin\Debug\System.Data.SQLite.EF6.dll
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\bin\Debug\System.Data.SQLite.Linq.dll
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\bin\Debug\EntityFramework.xml
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\bin\Debug\EntityFramework.SqlServer.xml
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\bin\Debug\System.Data.SQLite.xml
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\obj\Debug\C_Wimform.csproj.CopyComplete
+D:\G947\VS19repos\C_Wimform - 改\C_Wimform\obj\Debug\C_Wimform.DBsetting.resources
